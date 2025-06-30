@@ -1,4 +1,3 @@
-import React from 'react';
 import Header from './component/RCMP_Header/Header';
 import { Outlet } from 'react-router-dom';
 import Navigation from './component/RCMP_Navigation/Navigation';

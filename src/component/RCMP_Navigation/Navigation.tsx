@@ -1,4 +1,3 @@
-import React from 'react'
 import Button from '../RCMP_Button/Button'
 import { dataNav } from '../../db';
 import { Link, useLocation } from 'react-router-dom';
